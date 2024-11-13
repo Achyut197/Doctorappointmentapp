@@ -1,0 +1,13 @@
+/* Dark Mode Styles */
+body.dark-mode {
+    background-color: #121212;
+    color: white;
+  }
+  
+  /* Adjust the navbar elements in dark mode if needed */
+  body.dark-mode .navbar {
+    background-color: #333;
+  }
+  
+  /* Other elements can be customized similarly */
+  
